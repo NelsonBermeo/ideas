@@ -1,0 +1,4 @@
+1. I wonder how many variations of a stack we should know for an interview, theres arrays, linked list, vectors blah blah 
+2. Hello algorithms professor, which implementation of a stack do you like? he'll be like bro idc
+3. What is this idea of runtime vs compiletime in c++ and probably in other languages 
+4. Why is there a circular queue but not a circular stack

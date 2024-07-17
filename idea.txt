@@ -1,0 +1,22 @@
+1. When I go to become a ta, let's teach the people how to make a the music app but with a simple gui
+
+2. I wonder if we can reach out to the highschool to talk to children interested in computer science 
+
+3. I think we should learn how the computer works in a way to program our own parent blocker
+
+4. Webscrap course catalog, linked in and finance with chat gpt helper bot 
+
+5. We can webscrape/automate our finances and we can either webscrap every week or maybe bankofamerica offers an export of finances every week which we can use 
+
+6. Put this up on github and ask people if they would like to talk about it 
+
+7. Make a program that can get though captchas, that's impossible?? 
+
+8. Projects from youtube often have github repos and make great bases for greater and cooler projects. I wonder if I can look into the projects that other people have created off a youtube video and look into that youtubers community discord or something. 
+
+9. Web scrapping is a form of data mining! So that's what Akcam does! 
+10. Can I make a random program that connects to chat gpt? Like if i go on my IDE would it be possible to ask a question to chat gpt from there? Like hey ask chat gpt how its doing and give me back the answer? 
+
+11. We can write the functions ourselves with our own knowledge then ask chat gpt how we can add matplotlib, seaborn, pandas or numpy 
+
+12. I'd like to learn how to hack one day, frick i wish i explored more during my freshman year
