@@ -20,3 +20,5 @@
 11. We can write the functions ourselves with our own knowledge then ask chat gpt how we can add matplotlib, seaborn, pandas or numpy 
 
 12. I'd like to learn how to hack one day, frick i wish i explored more during my freshman year
+
+13. Add content creators to my site
