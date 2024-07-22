@@ -22,3 +22,24 @@
 12. I'd like to learn how to hack one day, frick i wish i explored more during my freshman year
 
 13. Add content creators to my site
+
+14. django is still a bit confusing to me with how we utilize models and our own logic, maybe we can use chatgpt to help guide us through a simple project like getting user input numbers and graphing them or like adding them or seomthing that involved classic python
+
+15. So i guess well spend the rest of summer doing the following: we have about 6 weeks so lets timeline this all out: 
+This is all being completed within a month to grasp the topics not master them, that is what the remainder of my college learning will be for
+
+Week 1: ML Specialization
+Week 2: ML/DL Specialization
+Week 3: DL Specialization
+Week 4: QM/QC
+Week 5: QML YT
+    Good Resources Could Be:
+    1. https://www.youtube.com/watch?v=aFDbO0CZFto
+        Notes: No one knows why machine learning works. What?
+    2. https://www.youtube.com/watch?v=Lbndu5EIWvI
+    3. https://www.youtube.com/watch?v=QtWCmO_KIlg&list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg
+    4.
+
+Week 6: Django + Finish Portfolio
+
+16. Luis von Ahn - https://www.youtube.com/watch?v=P6FORpg0KVo - So i just watched this video because I wonder if anyone else has ever been in the situation of internet addiction and I wonder how they fought and got through it. The title of this video was "How to Make Learning as Addictive as Social Media" and the video wasn't an exact solution to my problem, but it did give me a great idea. Luis says that a learning app on your phone looks like brocolli next to desert (tiktok, instagram, etc). But he made the brocolli taste like desert by making it feel like a game and setting reminders. Something I have been doing is memorizing algorithms like bubblesort, the syntax for linked lists implementation and many more. I set sometime everyday to implement any algorithm from a blank file from memorization, but It's a little lame its hard sometimes to get yourself to do it. Its not nessesary, but I think it'd be great and very helpful to make a django application that gives you a random prompt: "Implement selection sort" from a list of algorithms and there'd be a stats page for a streak number, maybe customization of a charcter idk, something gamy and trackable. I think this phycologically would help people want to practise algorithms. This is a great idea I hope I can finish this project by the end of the year. 
