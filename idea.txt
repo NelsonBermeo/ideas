@@ -51,3 +51,5 @@ Week 6: Django + Finish Portfolio
 19. How do you meditate?
 
 20. I want to rent out my book for free during the year at stevens and itd be cool to make an application or program to track whos got my book and for how long
+
+21. The way to quit bad habits isn't to restrict yourself from them, but to free yourself from them. Being aware of them always and changing your thoughts about them.
