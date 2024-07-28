@@ -61,3 +61,12 @@ Week 6: Django + Finish Portfolio
 -- Why do you want to work hard? -- The consequences of not working hard
 
 24. A program that lets people sign up to have lunch with a teacher 
+
+25. Montecarlo tree search - prompt engineering
+
+26. Books are the way to go lets try those out right now
+
+27. Ill look into hacakthons and get some people to join me:
+    luma is a meetup site 
+    devpost is a good place to find hackathons, id like to attend an irl one 
+    MLH is a great place to find hackathons, there is one that will be held in nyc this october i hope i can find a team for it! - They also have hack weeks avaliable where students can learn about certain topics, really cool!
