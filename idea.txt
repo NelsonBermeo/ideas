@@ -70,3 +70,60 @@ Week 6: Django + Finish Portfolio
     luma is a meetup site 
     devpost is a good place to find hackathons, id like to attend an irl one 
     MLH is a great place to find hackathons, there is one that will be held in nyc this october i hope i can find a team for it! - They also have hack weeks avaliable where students can learn about certain topics, really cool!
+    https://ghw.mlh.io/
+    Hackathons: 
+    https://www.columbiadivhacks.org/ - In person - Oct 5
+    https://mlh.io/seasons/2025/events - find some online ones
+    https://2024-motion-ai-fluenstech.devpost.com/?ref_feature=challenge&ref_medium=discover - Online - Aug 6 - Motion AI
+    https://devpost.com/hackathons?challenge_type[]=online&order_by=recently-added&status[]=upcoming - find some hackathons
+    https://lu.ma/n24m5l80 - Ai event
+    https://www.cooperativeimpactlab.org/ai4org - Ai hackathon
+    Maybe I can find out who at stevens is really into hackathons and ask them how they stay in the loop 
+
+    28. CS Club ideas:
+        What is our budget? how much of that is used for the event at the end of the year? 
+
+        1. Saying hello to everyone and telling the freshman what theyve signed up for, so we have about an hour for all this okay, why? well because people like thinking about the future and they'd like to know whats going on with college whats this thing all about? 
+            - Hello everyone we are cs club!
+            - Introduce the e-board 
+            - Talk about events we've had in the past.
+            - Talk about how its great to build friendships 
+            -------- That can take 10 minutes
+            - We can have a slideshow and stuff 
+            - This meeting well be telling you about our experiences in the CS program and tell you what you'll be in for 
+            
+            - We can have 4 12.5 minute sessions for each year of the cs program, or we could have 6 9 minute sessions for each year including masters and phd, but the latter can probably be its own thing... 
+
+            for (int i = 0; i <= 4 ; i++){
+            - We can have 2 or 3 or so older kids sitting in some chairs in the front
+            - 3 min tell everyone what the year is about what topics are learned etc
+            - every kid in front tells their short story about that year 2 min each or so 
+            - 3 or 2 minutes for questions 
+            }
+
+            - so we do that for every year, and then we close by saying thanks for coming to cs club and we give away stickers and ask people to stay and talk to the e-board or with eachother. We could set up a table with stickers, water and snacks that we'd reveal at the end, in honor of marco we will talk after club meets 
+
+            - Shout out some stuff 
+
+            - Cool 
+
+            - We can even try and record it so students who weren't able to make it can still get introduced to us. Do we have a website we can put it on? 
+
+        1.5 Hey it'd be cool if every cs - type club can pitch in some funds for a large networking event. Food here, 
+
+        2. Teaching people how to get jobs 
+
+        3. Maybe general adivce giving just the e-board and special guests giving their general advice to the audience for an hour with q/a type of deal as well 
+            - My advice would be geared towards freshman, but im sure other grades could benefit from joshes and sabah talking 
+
+        4. Should we make our own hackathon? 
+
+        5. Headshots / mock interviews / practice behavorial questions/ resume building all in one day 
+
+        6. Guest speakers are always interesting maybe professors, maybe a research team on campus, maybe one of you know a recuritor whatever! 
+
+        Question : Anna there is this ACM chapter for UIUC. ACM is the umbrella organization for special interest groups. does acm give money to these groups, how does this work? How has ACM worked in the past? 
+
+        7. Can we get a connection with the highschool?
+
+        
