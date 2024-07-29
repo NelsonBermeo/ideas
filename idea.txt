@@ -127,3 +127,6 @@ Week 6: Django + Finish Portfolio
         7. Can we get a connection with the highschool?
 
         
+28. That one idea i told the fellowship guys about career path
+
+29. build a discord or groupchat for students who want to build projects together or attend hackathons together or just do your own hackathon just cuz lol
