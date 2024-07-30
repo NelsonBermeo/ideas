@@ -138,3 +138,23 @@ Week 6: Django + Finish Portfolio
 SCSC: I bet we can rizz up some teachers into being judges for a hackathon that involve whatever, we can get some yum yum and some prizes, oh wait thats our final sesh we need more money!!!!
 
 32. Should we create a linked in for SCSC? Thats the only social media i use and probably where people would rather see professional content like scsc topics
+
+33. Im coming to the understanding that to do these hackathon things, you'd have to understand a lot of topics and connecting them all together is the magic. Yasin here, says that a software engineer can do it all, interesting. He reccomends understanding the following concepts: 
+    - Html/css 
+    - Javascript/Bootstrap
+    - React/NextJS
+    - Firebase
+    - TypeScript/ExpressJS
+    - OpenAI/StripeAI
+    - Deploy API Server
+    - AWS amazon
+    - Vectors/Langchain
+    - Traditional ML
+He also reccomends that we build a project per each skill and ethen you end up connecting the dots and understand how they all work together
+
+34. Next year my skills in each of these categories will be destructive, I plan on forming an avenger squad to destroy this fellowship next year and get that internship at whatever company they partner with
+
+35. These are exciting projects wwozies 
+
+36. I saw a studing advice where you would re-write notes at the end of the day, lets try that out during classes that sound sneat
+
